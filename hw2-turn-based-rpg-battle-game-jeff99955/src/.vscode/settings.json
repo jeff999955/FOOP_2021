@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/jeff9/Documents/FOOP/hw2-turn-based-rpg-battle-game-jeff99955/provided.jar"
+    ]
+}

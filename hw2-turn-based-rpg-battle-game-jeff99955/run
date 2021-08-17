@@ -1,0 +1,2 @@
+javac -sourcepath src/ -classpath provided.jar -d out/ src/*.java
+java -cp provided.jar:out Main                                   
